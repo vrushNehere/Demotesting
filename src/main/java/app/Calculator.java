@@ -14,4 +14,14 @@ public class Calculator {
 		{
 			return i/j;
 		}
+		
+		public int subtract(int i, int j)
+		{
+			
+		(if i>j)
+		return i-j;
+		else 
+			return j-1;
+		}
+				
 }
